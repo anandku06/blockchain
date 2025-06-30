@@ -35,3 +35,20 @@
 - a modular DON that can both bring external data and external computation into the smart contracts to make sure they're decentralized end to end.
 - allows for us to get data, do upkeeps, get random numbers, or really customise smart contracts in a meaningful way
 - blockchain agnostic
+
+## L2 (Layered-2)
+
+- solves an issue that most blockchains see where they don't scale very well,
+- solves scalability issues
+- two types of true layer 2s:
+    1. Optimistic Rollups : Arbitrum and Optimism
+    2. Zero-knowledge rollups : ZK Sync and Polygon ZK EVM
+
+## Web1
+    - permissionless open-sourced web with static content
+
+## Web2
+    - permissioned web, with dynamic content, where companies run your agreements on thier servers
+
+## Web3
+    - permissionless web, with dynamic content, where decentralized censorship resistant networks run your agreement and code. It generally is accompanied by the idea of user owned ecosystems, where the protocols you interact with you also own a portion of, instead of solely being the product. 
